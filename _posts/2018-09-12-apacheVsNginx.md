@@ -30,7 +30,7 @@ Keep Alive에 대한 고민에서 출발한 새로운 MPM 방식. 이 방식은 
 Nginx의 아키텍쳐 구조는 아래의 그림과 같다.
 
 ![Nginx 아키텍쳐 구조](https://bstar170.github.io/images/Nginx%20architecture.png)
-출처: http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220737182315
+출처: [http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220737182315](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220737182315)
 
 
 보안과 속도를 최적화시키려는 노력에서 탄생한 웹서버. 심플하고 규모가 작은 서비스이면서 정적 데이터 처리가 많은 서비스에 적합. 프로그램의 흐름이 이벤트에 의해 결정이 되는 Event Driven 방식의 웹 서버.
@@ -55,4 +55,4 @@ Nginx 는 비동기 이벤트 기반으로 요청을 처리하고, Apache 서버
 
 즉 안정성과 확장성, 호환성에서 Apache가 우세, 성능 면에서는 Nginx가 우세하다는 것이 결론이다.
 
-출처: http://victorydntmd.tistory.com/231
+출처: [http://victorydntmd.tistory.com/231](http://victorydntmd.tistory.com/231)
