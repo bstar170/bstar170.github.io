@@ -63,7 +63,7 @@ category: 개발
 또한 분리되어 있을 때 좋은 점은 배포를 할 때 웹서버를 끄지 않아도 가능함. (무중단 배포.) 요즘에는 L4 장비가 대신해줌.
 
 #### 출처
-[http://blog.naver.com/PostView.nhn?blogId=blanket1210&logNo=220850906218](http://blog.naver.com/PostView.nhn?blogId=blanket1210&logNo=220850906218)  
-[http://blackaaron.tistory.com/1](http://blackaaron.tistory.com/1)  
-[http://parkbrother.tistory.com/entry/Web-서버와-Was-서버의-차이에-대해서-알아보자](http://parkbrother.tistory.com/entry/Web-서버와-Was-서버의-차이에-대해서-알아보자)  
-[http://toma0912.tistory.com/52](http://toma0912.tistory.com/52)
+- [http://blog.naver.com/PostView.nhn?blogId=blanket1210&logNo=220850906218](http://blog.naver.com/PostView.nhn?blogId=blanket1210&logNo=220850906218)  
+- [http://blackaaron.tistory.com/1](http://blackaaron.tistory.com/1)  
+- [http://parkbrother.tistory.com/entry/Web-서버와-Was-서버의-차이에-대해서-알아보자](http://parkbrother.tistory.com/entry/Web-서버와-Was-서버의-차이에-대해서-알아보자)  
+- [http://toma0912.tistory.com/52](http://toma0912.tistory.com/52)
