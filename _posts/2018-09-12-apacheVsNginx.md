@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apache 와 Nginx 특징과 비교
-date: 2019-09-12 10:40:00 -0600
+date: 2018-09-12 10:40:00 -0600
 category: 개발
 ---
 
