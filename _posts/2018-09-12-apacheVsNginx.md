@@ -56,4 +56,4 @@ Nginx 는 비동기 이벤트 기반으로 요청을 처리하고, Apache 서버
 즉 안정성과 확장성, 호환성에서 Apache가 우세, 성능 면에서는 Nginx가 우세하다는 것이 결론이다.
 
 #### 출처
-[http://victorydntmd.tistory.com/231](http://victorydntmd.tistory.com/231)
+- [http://victorydntmd.tistory.com/231](http://victorydntmd.tistory.com/231)  
