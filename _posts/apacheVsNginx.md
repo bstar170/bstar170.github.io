@@ -1,9 +1,6 @@
 ---
-
 layout: post
-
-title: Apache 와 Nginx 특징과 비교
-
+title:Apache 와 Nginx 특징과 비교
 ---
 
 # Apache 와 Nginx 특징과 비교
