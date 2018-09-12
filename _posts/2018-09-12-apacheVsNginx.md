@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Apache 와 Nginx 특징과 비교
+date: 2019-09-12 10:40:00 -0600
+category: 개발
 ---
 
 tomcat과 연동할 Web server를 찾다가 요즘 핫하다는 Nginx를 사용하여 연동해보기로 하였다. 연동하기 전에 Apache와 Nginx의 특징에 대해 조사해봤다.
