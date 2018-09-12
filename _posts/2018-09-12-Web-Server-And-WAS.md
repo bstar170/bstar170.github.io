@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Server와 WAS란?
-date: 2019-09-12 10:30:00 -0600
+date: 2018-09-12 10:30:00 -0600
 category: 개발
 ---
 
