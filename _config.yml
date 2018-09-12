@@ -3,6 +3,7 @@
 #
 
 locale: ko
+excerpt_separator: "\n\n"
 
 # Name of your site (displayed in the header)
 name: 김성현
