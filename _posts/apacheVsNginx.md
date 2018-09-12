@@ -32,7 +32,7 @@ Keep Alive에 대한 고민에서 출발한 새로운 MPM 방식. 이 방식은 
 
 Nginx의 아키텍쳐 구조는 아래의 그림과 같다.
 
-![Nginx 아키텍쳐 구조](images/Nginx architecture.png "Optional title")
+![Nginx 아키텍쳐 구조](({{ site.baseurl }}/images/Nginx architecture.png)
 출처: http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220737182315
 
 
