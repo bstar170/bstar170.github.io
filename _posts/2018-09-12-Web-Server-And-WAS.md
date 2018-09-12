@@ -16,7 +16,7 @@ category: 개발
 ### Web Server의 종류
 
 - Apache web server - the HTTP web server
-    - Apache Software Foundation에ㅓㅅ 개발한 세계적으로 가장 유명하고 널리 쓰이는 무료 웹 서버.
+    - Apache Software Foundation에 개발한 세계적으로 가장 유명하고 널리 쓰이는 무료 웹 서버.
 - Microsoft사의 Internet Information Services(IIS) Windows Server
     - IIS Windows 웹 서버는 기존 서버에 비해 높은 수준의 성능과 보안을 제공한다.
 - Nginx web server
