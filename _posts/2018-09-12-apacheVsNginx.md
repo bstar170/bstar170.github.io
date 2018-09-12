@@ -1,6 +1,8 @@
 ---
 layout: post
-title:Apache 와 Nginx 특징과 비교
+title: Apache 와 Nginx 특징과 비교
+date: 2018-09-12 10:46:01 -0600
+categories: jekyll update
 ---
 
 # Apache 와 Nginx 특징과 비교
