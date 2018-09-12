@@ -7,6 +7,8 @@ category: 개발
 
 흔히 웹 개발을 하면서 Web Server와 WAS의 차이점을 모르는 경우가 많았다. 그 차이를 명확히 알아보기 위해 조사하고 정리한 자료이다.
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 ## Web Server
 - 클라이언트의 요청을 받아 **정적 컨텐츠(.html, .png, .css등)를 제공하는 서버**
 - 웹 페이지를 클라이언트로 전달하고, 클라이언트로부터 컨텐츠를 전달 받는 역할을 담당한다.
