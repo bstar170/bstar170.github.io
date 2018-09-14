@@ -9,7 +9,6 @@ category: 개발
 
 - ServerRoot
     - Web Server가 설치된 디렉토리 경로
-    - 예
       ```
       ServerRoot "D:/Apache/httpd-2.2.31-win64/Apache2"
       ```
