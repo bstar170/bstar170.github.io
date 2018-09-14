@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logback 설정
+title: Apache-httpd-설정-조사
 date: 2018-09-14 10:43:00 -0600
 category: 개발
 ---
