@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apache-httpd-설정-조사
+title: Apache-httpd 설정 정리
 date: 2018-09-14 10:43:00 -0600
 category: 개발
 ---
