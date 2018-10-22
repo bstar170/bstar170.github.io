@@ -20,7 +20,8 @@ category: 개발
 
 ![](https://engineering.linecorp.com/image/2016/07/fail_fast.png)
 
--출처 ([분산 서비스 환경에 대한 Circuit Breaker 적용](https://engineering.linecorp.com/ko/blog/detail/76))
+##### 출처
+-([분산 서비스 환경에 대한 Circuit Breaker 적용](https://engineering.linecorp.com/ko/blog/detail/76))
 
--출처 ([
+-([
 쿠팡 서비스 Cloud Migration을 통해 배운 것들](https://www.slideshare.net/deview/115-119061611))
