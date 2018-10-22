@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 서킷 브레이커?
+title: 서킷 브레이커
 date: 2018-10-22 16:40:00 -0600
 category: 개발
 ---
